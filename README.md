@@ -7,6 +7,7 @@ Current progress:
 - Books rooms, pushes room data for current date -> Discord via Webhooks
 ToDo:
 - Automatic execution via Github Actions
+- Implement User Account Pools
 
 Contributors:
 - [Luke102](https://github.com/lukeo102)
