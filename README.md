@@ -1,4 +1,5 @@
-# GLA Booker Bot
+# RETIRED - GLA Booker Bot v1
+# See latest: [here](https://github.com/GLAComputingYear1/Booker)
 - WIP!
 
 A work in progress bot, running via github actions, that books rooms in the JMS Learning Hub.
